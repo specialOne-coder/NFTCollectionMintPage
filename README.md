@@ -1,8 +1,25 @@
-# Basic Sample Hardhat Project
+# Contract and NFT mint page
+### Mint your own nft collection
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### Welcome
 
-Try running some of the following tasks:
+To get started , clone this repo and follow these commands:
+
+Run `npm install` at the root of your directory
+Do `cd client` and run `npm install` again
+Run `npm run start` to start the project
+
+### Project
+
+You'll see at `localhost:3000` :
+
+![](git.png)
+
+Mint now your nft collection
+
+### Training
+
+Try running some of the following tasks for see how hardhat work :
 
 ```shell
 npx hardhat accounts
